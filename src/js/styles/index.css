@@ -1,0 +1,30 @@
+/* 
+
+    You can write your own styles here...
+    
+    
+    ...Or you can use the import command to include 
+    other sylesheets into your bunde as well, e.j:
+    
+    import 'relative/path/to/stylesheet.scss';
+
+*/
+
+.Counter{
+    font-size: 3rem;
+    background: black;
+    text-align: center;
+}
+.Counter div{
+    display: inline-block;
+    font-size: 70px;
+    line-height: 60px;
+    height: 90px;
+    background: #101010;
+    color: white;
+    margin: 3px;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: double;
+    border-color: white;
+}
